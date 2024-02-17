@@ -11,6 +11,7 @@ module.exports = {
         url: "https://rpc.ankr.com/scroll_sepolia_testnet",
       },
     },
+    
     sepolia: {
       url: "https://rpc.ankr.com/scroll_sepolia_testnet",
       chainId: 534351,
